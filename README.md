@@ -1,2 +1,0 @@
-# express-ts
-typescript express
